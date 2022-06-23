@@ -44,7 +44,10 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+![GitHub Logo](./images/output1.png)
+![output](./images/output2.png)
+![GitHub Logo](./images/output3.png)
+
 
 
 ## Result:
